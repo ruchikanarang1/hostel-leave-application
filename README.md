@@ -1,0 +1,1 @@
+The "Hostel Leave Application System" is a GUI-based application developed using the Tkinter library in Python. The system allows hostel residents to submit leave applications, providing their details and reasons for leaving. The application aims to streamline the leave application process and maintain a record of leave requests within the hostel management system.
